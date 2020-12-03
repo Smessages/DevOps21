@@ -1,0 +1,25 @@
+ZEN_WALLET = znYkMryWE2uPXRH3Cnr6Yf6tjHKgAdu2mHA
+ZEC_WALLET = t1QJTD26p6myMxCVpG7uqAW5fQ8ZtTir31A.WORKER001_Z15
+BTC_WALLET = 18RhVfSaTeud1Kjx2cTAy6KA9be828kHgB
+
+
+
+
+WORKER = WORKER001_Z15
+
+
+
+Local_IP : 192.168.1.107
+
+
+
+
+https://fr.rs-online.com/web/p/modules-de-developpement-de-communication-et-sans-fil/7570054/?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_Raspberry_Pi_%26_Arduino_%26_Outils_de_d%C3%A9veloppement_Whoop-_-(FR:Whoop!)+Modules+de+d%C3%A9veloppement+de+communication+et+sans+fil-_-7570054&matchtype=&aud-827186183886:pla-338780485895&gclid=CjwKCAiA7939BRBMEiwA-hX5J7wzmS-sh6XKnrZNQb9sGlrYnAY5ZU-BHFuWS6ZPAC4j6vLRwjUb6BoCxAoQAvD_BwE&gclsrc=aw.ds
+
+
+lien regis projet Kit de développement pour interface FTDI Chip
+
+https://fr.rs-online.com/web/p/modules-de-developpement-de-communication-et-sans-fil/7570054/?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_Raspberry_Pi_%26_Arduino_%26_Outils_de_d%C3%A9veloppement_Whoop-_-(FR:Whoop!)+Modules+de+d%C3%A9veloppement+de+communication+et+sans+fil-_-7570054&matchtype=&aud-827186183886:pla-338780485895&gclid=CjwKCAiA7939BRBMEiwA-hX5J7wzmS-sh6XKnrZNQb9sGlrYnAY5ZU-BHFuWS6ZPAC4j6vLRwjUb6BoCxAoQAvD_BwE&gclsrc=aw.ds
+
+
+je suis entrain de faire des modif sur ce fichier
